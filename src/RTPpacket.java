@@ -45,9 +45,6 @@ public class RTPpacket{
         //--------------------------
         header = new byte[HEADER_SIZE];
 
-        //.............
-        //TO COMPLETE
-        //.............
         //fill the header array of byte with RTP header fields
 
 
